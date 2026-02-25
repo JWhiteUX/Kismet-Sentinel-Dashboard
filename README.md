@@ -8,6 +8,9 @@ Real-time wireless monitoring dashboard for [Kismet](https://www.kismetwireless.
 
 <!-- ![screenshot](docs/screenshot.png) -->
 
+<img width="1728" height="958" alt="image" src="https://github.com/user-attachments/assets/da9736fc-5145-4404-8c04-39bc909f8f0b" />
+
+
 ## Features
 
 - **Device Monitor** — Live device table with MAC, SSID, PHY, manufacturer, signal strength, and last-seen timestamps. Filter by PHY type (802.11, Bluetooth, UAV) or search by any field.
